@@ -79,7 +79,7 @@ body {
     height: 480px; 
     border-radius: 200px 200px 0 0; 
     padding: 20px; 
-    background-image: url('Image/Black&White.jpg'); 
+    background-image: url('Black&White.jpg'); 
     background-size: 250px; 
     box-shadow: 0 4px 10px rgba(0,0,0,0.1); } 
 
@@ -176,10 +176,10 @@ body {
 }
 
 /* IMAGES */
-.orange { background-image: url('Image/orange.jpg'); }
-.black { background-image: url('Image/Black&White.jpg'); }
-.red { background-image: url('Image/red.jpg'); }
-.green { background-image: url('Image/green.jpg'); }
+.orange { background-image: url('orange.jpg'); }
+.black { background-image: url('Black&White.jpg'); }
+.red { background-image: url('red.jpg'); }
+.green { background-image: url('green.jpg'); }
 
 /* ABOUT */
 .about-section {
@@ -226,9 +226,6 @@ body {
     transform: scale(1.05);
     opacity: 0.9;
 }
-
-
-
 
 
 /* FOOTER */
